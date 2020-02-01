@@ -49,4 +49,9 @@ public class PlayerController : MonoBehaviour
     {
         m_dir = context.action.ReadValue<Vector2>().normalized;
     }
+
+    public void Interact(InputAction.CallbackContext context)
+    {
+        Debug.Log(context);
+    }
 }
