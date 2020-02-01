@@ -225,3 +225,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_MovementSpeed: 1
+  spriteRenderer: {fileID: 2903144150172419033}
+  spriteUp: {fileID: 5262549432644997099, guid: 97803a4bbb1bc4be7ba11d590809b4e8,
+    type: 3}
+  spriteDown: {fileID: -5664733529855058156, guid: 97803a4bbb1bc4be7ba11d590809b4e8,
+    type: 3}
+  spriteLeft: {fileID: -7662169611412718660, guid: 97803a4bbb1bc4be7ba11d590809b4e8,
+    type: 3}
+  spriteRight: {fileID: 4686188843820498500, guid: 97803a4bbb1bc4be7ba11d590809b4e8,
+    type: 3}
